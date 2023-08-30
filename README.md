@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Eat-n-split
+## Eat-n-Split course project made amidst The Ultimate React course by Jonas Schmedtmann
+![localhost_3000_ (1)](https://github.com/vaidanshbhardwaj/eat-n-split/assets/94763871/263b567e-90ac-421e-a8d1-5cd64f94ef55)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
